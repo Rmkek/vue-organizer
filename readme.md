@@ -1,4 +1,4 @@
-# Project Title
+# Organizer
 
 Yet another todo organizer for your purposes.
 
